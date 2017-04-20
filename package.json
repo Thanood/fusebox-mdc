@@ -1,0 +1,23 @@
+{
+  "name": "mdc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fsbx": "^1.4.1-preview.7",
+    "typescript": "^2.2.2"
+  },
+  "dependencies": {
+    "@material/button": "^0.3.3",
+    "@material/card": "^0.1.7",
+    "@material/ripple": "^0.5.1",
+    "@material/textfield": "^0.2.6",
+    "@material/typography": "^0.2.1"
+  }
+}
